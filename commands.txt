@@ -1,0 +1,10 @@
+# change mode
+MODE:DEBUG
+MODE:SEARCH
+MODE:DEFAULT
+
+# show region image
+REGION:SHOW
+
+# DEBUG Mode
+MOV:x,y,z
